@@ -19,9 +19,10 @@ public class App
         	System.out.print(i + " ");
         }
         
-        String[] arr = {"Gopi","Afrose","Lohit","Ganesh"};
-        for(int j = 0; j<=4; j++) {
-        	System.out.print(arr[j] + " ");
+        String[] arr = {"Gopi","Afrose","Lohit","Ganesh","Avinash","Venkat"};
+        for(String j : arr) {
+        	System.out.print(j + " ");
         }
+        // The code is been updated by lateral git
     }
 }
