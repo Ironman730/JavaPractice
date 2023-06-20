@@ -36,6 +36,7 @@ public class App
         System.out.println("Subtraction" + operations.sub());
         System.out.println("Multiplication" + operations.multiply());
         System.out.println("Division" + operations.division());
+        System.out.println("Name" + operations.name()); 
         
         
     }

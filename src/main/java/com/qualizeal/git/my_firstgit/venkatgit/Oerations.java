@@ -20,5 +20,8 @@ public class Oerations {
 		double c = a/b;
 		return c;
 	}
+	public String name() {
+		return("adil");
+	}
 
 }
